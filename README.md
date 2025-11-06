@@ -1,4 +1,3 @@
-
 At the end of this project, expected to be able to:
 
 - run javascript using NodeJS
@@ -10,4 +9,3 @@ At the end of this project, expected to be able to:
 - create advanced routes with Express JS
 - use ES6 with Node JS with Babel-node
 - use Nodemon to develop faster
->>>>>>> Node js project
